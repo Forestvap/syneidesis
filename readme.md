@@ -1,0 +1,1 @@
+Syneidesis simple code
